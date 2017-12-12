@@ -1,0 +1,30 @@
+head
+{
+	border: 1px solid black;
+    border-radius: 20px;	
+    text-align: center;
+}
+body
+{
+    font-size: 125%;
+    padding-left: 25%;
+    padding-right: 25%;
+    background-image: url('back.jpg');
+    text-align: center;
+}
+li
+{
+  list-style: none;
+} 
+#img
+{
+  max-width: 4%;
+  height: auto;
+
+}
+#cadre
+{
+	border: 2px solid black;
+    border-radius: 20px;
+	background: rgba(100, 100, 100, 0.5);
+}
